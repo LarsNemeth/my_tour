@@ -6,7 +6,7 @@
 |50|3h  |Easy|11 am|3pm|2nd of April|
 
 ## Proviant
-- Drinks
+- Drinks  :tropical_drink:
   -  Water 2 L 
   -  Coke 
   -  Dextro Energy 
